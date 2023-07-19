@@ -1,4 +1,1 @@
-# graduacao
-# graduacao
-# graduacao
-# graduacao
+Exercícios e Projetos realizados na faculdade
